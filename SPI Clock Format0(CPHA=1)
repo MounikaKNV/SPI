@@ -1,0 +1,18 @@
+{signal:[
+  {name:"SCK(CPOL=0)",          wave:"0.1010101010101010.."},
+  {name:"SCK(CPOL=1)",          wave:"1.0101010101010101.."},
+  {name:"Sample Mosi/miso",     wave:"0.0.0.0.0.0.0.0.0..."},
+  {name:"change o MOSI pin",    wave:"1.2.2.2.2.2.2.2.21.2"},
+  {name:"change o MOSO pin",    wave:"022.2.2.2.2.2.2.2212"},
+  {name:"SEL SS(O) Master only",wave:"10...............12."},
+  {name:"SEL SS(1) Master only",wave:"10...............12."},
+  ],
+ head:{
+   text:'SPI Clock Format0(CPHA=1)'
+  
+},
+ 
+}
+
+
+ 
